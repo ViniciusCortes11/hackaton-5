@@ -1,0 +1,6 @@
+Passo a passo de comandos do terminal:
+
+cd mentoris   
+powershell -c "irm bun.sh/install.ps1|iex"
+bun install
+bun run dev 
